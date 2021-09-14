@@ -27,4 +27,5 @@ print json_encode($data);
 $conexion=null;
 //usuarios de pruebaen la base de datos
 //usuario:keiner pass:12345
+//usuario:alex pass:12345
 //usuario:demo pass:demo
