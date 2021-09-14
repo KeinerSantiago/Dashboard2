@@ -52,6 +52,7 @@
                     <a href="periodo.php"><i class="fa fa-product-hunt"></i><span>Periodo</span></a>
                     <a href="documento2.php"><i class="fa fa-address-card-o"></i><span>Tipo Doc</span></a>
                     <a href="usuario2.php"><i class="far fa-user-circle"></i><span>Usuario</span></a>
+                    <a href="back/descarga.php"><i class="fas fa-folder-open"></i><span>Backup</span></a>
                 </nav>
             </div>
                 <div class="columna col-lg-6">  
